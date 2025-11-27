@@ -4,5 +4,6 @@
 int main()
 {
     printf("Hello world!\n");
+    printf("Druga linija koda\n");
     return 0;
 }
