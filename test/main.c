@@ -8,6 +8,7 @@ int main()
     printf("Treca linija koda\n");
 
     int x = 54;
+
     printf("%d", x);
 
     return 0;
