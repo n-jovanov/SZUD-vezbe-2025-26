@@ -6,5 +6,9 @@ int main()
     printf("Hello world!\n");
     printf("Druga linija koda\n");
     printf("Treca linija koda\n");
+
+    int x = 3;
+    printf("%d", x);
+
     return 0;
 }

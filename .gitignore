@@ -1,0 +1,4 @@
+*.layout
+*.cbp
+/test/bin
+/test/obj
