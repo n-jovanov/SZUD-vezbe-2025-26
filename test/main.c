@@ -7,7 +7,7 @@ int main()
     printf("Druga linija koda\n");
     printf("Treca linija koda\n");
 
-    int x = 3;
+    int x = 54;
     printf("%d", x);
 
     return 0;
