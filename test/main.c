@@ -10,6 +10,8 @@ int main()
     int x = 54;
 
     printf("%d", x);
+    printf("%d", x);
+    
 
     return 0;
 }
